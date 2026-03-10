@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+* {
+  
+  overflow-x: hidden;
+}
+
+body {
+  background-color: #d5e1ef;
+   font-family: "Outfit", sans-serif;
+}
